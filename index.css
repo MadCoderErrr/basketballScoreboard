@@ -1,5 +1,5 @@
 body {
-    margin: auto;
+    
 }
 
 @font-face {
@@ -8,6 +8,7 @@ body {
 }
 
 .mainContainer {
+    margin: auto;
     display: block;
     text-align: center;
     background: #1B244A;
